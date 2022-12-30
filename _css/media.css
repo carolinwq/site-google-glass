@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+audio#musica{
+    display: block;
+    position: relative;
+    left: 550px;
+    top: 100px;
+    width: 300px;
+}
+
+video#filme{
+    display: block;
+    position: relative;
+    left: 100px;
+    bottom: 30px;
+    width: 400px;
+}

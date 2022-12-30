@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+form{
+    width: 500px;
+    margin: auto;
+}
+
+input{
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: 11pt;
+}
+
+input:hover, textarea:hover{
+    background-color: #dddddd;
+}
+
+p, label{
+    font-size: 10pt;
+    text-indent: 0pt;
+}
+
+legend{
+    color: #888888;
+    font-weight: bold;
+    font-size: 13pt;
+    font-family: sans-serif;
+}
+
+fieldset{
+    border-color: #cecece;
+    margin: 10px;
+}
